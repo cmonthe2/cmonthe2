@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cmonthe2
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning CICD
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  
 
 <!---
 cmonthe2/cmonthe2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
